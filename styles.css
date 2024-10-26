@@ -1,0 +1,21 @@
+/*
+div {
+  font-size:100px;
+}
+*/
+.myfirstclass {
+  background-color:lightcoral;
+  font-size:100px;
+}
+.divTwo{
+  background-color:lightblue;
+}
+.divThree{
+  background-color:lightpink;
+}
+.divFour{
+  background-color:lightgoldenrodyellow;
+}
+.divFive{
+  background-color:lightgrey;
+}
